@@ -1,0 +1,104 @@
+[
+  {
+    "type": "bubble",
+    "size": "kilo",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/php.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "PHP",
+          "weight": "bold",
+          "size": "lg",
+          "align": "center",
+          "color": "#0000FF",
+          "margin": "none"
+        },
+        {
+          "type": "text",
+          "text": "PHP 為可快速開發的腳本語言。在網站資料處理應用上被廣泛運用。",
+          "margin": "md",
+          "wrap": true,
+          "maxLines": 5
+        }
+      ],
+      "backgroundColor": "#FFE4B5"
+    }
+  },
+  {
+    "type": "bubble",
+    "size": "kilo",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/mysql.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "MySQL",
+          "weight": "bold",
+          "size": "lg",
+          "align": "center",
+          "color": "#0000FF",
+          "margin": "none"
+        },
+        {
+          "type": "text",
+          "text": "MySQL 是一個小型關聯式資料庫管理系統，被廣泛地應用在中小型網站中。",
+          "margin": "md",
+          "wrap": true,
+          "maxLines": 5
+        }
+      ],
+      "backgroundColor": "#FFE4B5"
+    }
+  },
+  {
+    "type": "bubble",
+    "size": "kilo",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/laravel.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Laravel",
+          "weight": "bold",
+          "size": "lg",
+          "align": "center",
+          "color": "#0000FF",
+          "margin": "none"
+        },
+        {
+          "type": "text",
+          "text": "Laravel 是近年來相當熱門的PHP框架，用於製作網頁的 MVC 架構。",
+          "margin": "md",
+          "wrap": true,
+          "maxLines": 5
+        }
+      ],
+      "backgroundColor": "#FFE4B5"
+    }
+  }
+]

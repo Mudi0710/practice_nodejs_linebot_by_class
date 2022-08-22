@@ -1,0 +1,104 @@
+[
+  {
+    "type": "bubble",
+    "size": "kilo",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/node.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Node.js",
+          "weight": "bold",
+          "size": "lg",
+          "align": "center",
+          "color": "#0000FF",
+          "margin": "none"
+        },
+        {
+          "type": "text",
+          "text": "Node.js 是能夠在伺服器端運行 JavaScript 的跨平台執行環境。",
+          "margin": "md",
+          "wrap": true,
+          "maxLines": 5
+        }
+      ],
+      "backgroundColor": "#FFE4B5"
+    }
+  },
+  {
+    "type": "bubble",
+    "size": "kilo",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/vue.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Vue.js",
+          "weight": "bold",
+          "size": "lg",
+          "align": "center",
+          "color": "#0000FF",
+          "margin": "none"
+        },
+        {
+          "type": "text",
+          "text": "Vue.js 是一個用於建立使用者介面和單頁應用的 JavaScript 框架。",
+          "margin": "md",
+          "wrap": true,
+          "maxLines": 5
+        }
+      ],
+      "backgroundColor": "#FFE4B5"
+    }
+  },
+  {
+    "type": "bubble",
+    "size": "kilo",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/mongo.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "MongoDB",
+          "weight": "bold",
+          "size": "lg",
+          "align": "center",
+          "color": "#0000FF",
+          "margin": "none"
+        },
+        {
+          "type": "text",
+          "text": "MongoDB 是文件導向的資料庫系統，為目前最靈活易用的 NoSQL 之一。",
+          "margin": "md",
+          "wrap": true,
+          "maxLines": 5
+        }
+      ],
+      "backgroundColor": "#FFE4B5"
+    }
+  }
+]
